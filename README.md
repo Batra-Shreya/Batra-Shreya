@@ -4,7 +4,7 @@
 
 I am an AI Engineer specializing in building and deploying production-grade LLM applications and multi-agent systems. I focus on making AI dependable for highly regulated and financial domains (DeFi, Intellectual Property, and Healthcare) by moving constraints out of prompts and into deterministic tooling, structured retrieval, and bounded context. 
 
-📫 **Reach me at:** [shre88@gmail.com](mailto:shreyabatra988@gmail.com) | [LinkedIn](https://linkedin.com/in/shreya-batra-0b3147203) 
+📫 **Reach me at:** [shreyabatra988@gmail.com](mailto:shreyabatra988@gmail.com) | [LinkedIn](https://linkedin.com/in/shreya-batra-0b3147203) 
 
 ---
 
