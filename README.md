@@ -42,4 +42,3 @@ I am an AI Engineer specializing in building and deploying production-grade LLM 
 - **Multiple Performance Awards:** Recognized as *Employee of the Month/Quarter/Year* multiple times across 2024–2026 for shipping high-impact AI features.
 
 ---
-⭐️ *Building reliable AI by treating LLMs as reasoning engines, not databases.*
